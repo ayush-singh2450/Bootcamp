@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Replace",
+      "request": "launch",
+      "mainClass": "Arrays.Replace",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "ConcatAndReplace",
       "request": "launch",
       "mainClass": "Arrays.ConcatAndReplace",
