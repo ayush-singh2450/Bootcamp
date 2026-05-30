@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckAnagram",
+      "request": "launch",
+      "mainClass": "Arrays.CheckAnagram",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "RemoveDuplicates",
       "request": "launch",
       "mainClass": "Arrays.RemoveDuplicates",
