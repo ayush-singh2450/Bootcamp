@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckPalindrome",
+      "request": "launch",
+      "mainClass": "Arrays.CheckPalindrome",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CheckAnagram",
       "request": "launch",
       "mainClass": "Arrays.CheckAnagram",
