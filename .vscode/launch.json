@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveVowels",
+      "request": "launch",
+      "mainClass": "Arrays.RemoveVowels",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "Replace",
       "request": "launch",
       "mainClass": "Arrays.Replace",

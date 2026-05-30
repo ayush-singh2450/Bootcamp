@@ -30,7 +30,7 @@ public class CheckAnagram {
         }
 
         System.out.println(isAnagram ? "Anagram" : "Not Anagram");
-        
+        sc.close();
     }
 }
 
