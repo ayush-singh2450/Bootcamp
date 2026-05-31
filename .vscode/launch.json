@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DelRowWithHighestSum",
+      "request": "launch",
+      "mainClass": "Arrays.DelRowWithHighestSum",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "DiffBetweenFrstAndLast",
+      "request": "launch",
+      "mainClass": "Arrays.DiffBetweenFrstAndLast",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "LongestSubstring",
+      "request": "launch",
+      "mainClass": "Arrays.LongestSubstring",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "StringCompress",
       "request": "launch",
       "mainClass": "Arrays.StringCompress",
