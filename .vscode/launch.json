@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GroupAnnagram",
+      "request": "launch",
+      "mainClass": "Arrays.GroupAnnagram",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "DelRowWithHighestSum",
       "request": "launch",
       "mainClass": "Arrays.DelRowWithHighestSum",
