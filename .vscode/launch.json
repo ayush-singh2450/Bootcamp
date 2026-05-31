@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringCompress",
+      "request": "launch",
+      "mainClass": "Arrays.StringCompress",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "NRC",
       "request": "launch",
       "mainClass": "Arrays.NRC",
