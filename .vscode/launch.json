@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FrequencySort",
+      "request": "launch",
+      "mainClass": "Arrays.FrequencySort",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "ValidParanthesis",
+      "request": "launch",
+      "mainClass": "Arrays.ValidParanthesis",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "GroupAnnagram",
       "request": "launch",
       "mainClass": "Arrays.GroupAnnagram",
