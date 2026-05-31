@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestCommonPrefix",
+      "request": "launch",
+      "mainClass": "Arrays.LongestCommonPrefix",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "LongestConsecutiveIncSubArray",
       "request": "launch",
       "mainClass": "Arrays.LongestConsecutiveIncSubArray",
