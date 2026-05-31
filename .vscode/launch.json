@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestConsecutiveIncSubArray",
+      "request": "launch",
+      "mainClass": "Arrays.LongestConsecutiveIncSubArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "FrequencySort",
       "request": "launch",
       "mainClass": "Arrays.FrequencySort",
