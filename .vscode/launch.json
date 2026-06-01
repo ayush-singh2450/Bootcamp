@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringPermutation",
+      "request": "launch",
+      "mainClass": "Arrays.StringPermutation",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "LongestCommonPrefix",
       "request": "launch",
       "mainClass": "Arrays.LongestCommonPrefix",
