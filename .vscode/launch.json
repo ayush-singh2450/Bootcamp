@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UpdateIndex",
+      "request": "launch",
+      "mainClass": "LinkList.UpdateIndex",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "StringPermutation",
       "request": "launch",
       "mainClass": "Arrays.StringPermutation",
