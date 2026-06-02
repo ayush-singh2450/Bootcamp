@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DeleteAtPos",
+      "request": "launch",
+      "mainClass": "LinkList.DeleteAtPos",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CountElements",
       "request": "launch",
       "mainClass": "LinkList.CountElements",
