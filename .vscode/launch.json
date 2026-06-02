@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountElements",
+      "request": "launch",
+      "mainClass": "LinkList.CountElements",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "ReverseList",
       "request": "launch",
       "mainClass": "LinkList.ReverseList",
