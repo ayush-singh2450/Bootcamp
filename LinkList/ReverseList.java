@@ -1,19 +1,17 @@
 package LinkList;
 
-  import java.util.Scanner;
+import java.util.Scanner;
 
 class Node {
     int data;
-    Node prev; 
-    Node next;
+    Node prev, next;
 
     Node(int data) {
         this.data = data;
-        this.prev=this.next=null;
     }
 }
 
-public class UpdateIndex {
+public class ReverseList {
     static Node head = null;
 
     static void insert(int data) {
@@ -32,19 +30,19 @@ public class UpdateIndex {
         newNode.prev = temp;
     }
 
-    static void update(int index, int value) {
-        Node temp = head;
-        int i = 0;
+    static void reverse() {
+        Node temp = null;
+        Node current = head;
 
-        while (temp != null && i < index) {
-            temp = temp.next;
-            i++;
+        while (current != null) {
+            temp = current.prev;
+            current.prev = current.next;
+            current.next = temp;
+            current = current.prev;
         }
 
         if (temp != null)
-            temp.data = value;
-        else
-            System.out.println("Invalid Index");
+            head = temp.prev;
     }
 
     static void display() {
@@ -53,6 +51,7 @@ public class UpdateIndex {
             System.out.print(temp.data + " ");
             temp = temp.next;
         }
+System.out.println();
     }
 
     public static void main(String[] args) {
@@ -63,10 +62,13 @@ public class UpdateIndex {
         for (int i = 0; i < n; i++)
             insert(sc.nextInt());
 
-        int index = sc.nextInt();
-        int value = sc.nextInt();
-
-        update(index, value);
+        System.out.println("Original List: ");
         display();
+
+        reverse();
+
+        System.out.println("Reversed List: ");
+        display();
+    sc.close();
     }
 }
