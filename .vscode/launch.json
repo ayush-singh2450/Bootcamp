@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DeleteEvenSum",
+      "request": "launch",
+      "mainClass": "LinkList.DeleteEvenSum",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "DeleteAtPos",
       "request": "launch",
       "mainClass": "LinkList.DeleteAtPos",
