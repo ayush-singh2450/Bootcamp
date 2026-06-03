@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemovePrefix",
+      "request": "launch",
+      "mainClass": "LinkList.RemovePrefix",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "RemoveDuplicate",
       "request": "launch",
       "mainClass": "LinkList.RemoveDuplicate",
