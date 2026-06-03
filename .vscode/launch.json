@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveDuplicate",
+      "request": "launch",
+      "mainClass": "LinkList.RemoveDuplicate",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "DeleteEvenSum",
       "request": "launch",
       "mainClass": "LinkList.DeleteEvenSum",
