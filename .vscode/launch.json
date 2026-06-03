@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseEvenOdd",
+      "request": "launch",
+      "mainClass": "LinkList.ReverseEvenOdd",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "RemovePrefix",
       "request": "launch",
       "mainClass": "LinkList.RemovePrefix",
