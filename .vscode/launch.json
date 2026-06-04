@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "StackAndQueue.ReverseString",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "QueueSum",
       "request": "launch",
       "mainClass": "StackAndQueue.QueueSum",
