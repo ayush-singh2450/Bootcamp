@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CircularQueue",
+      "request": "launch",
+      "mainClass": "StackAndQueue.CircularQueue",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "ReverseString",
       "request": "launch",
       "mainClass": "StackAndQueue.ReverseString",
