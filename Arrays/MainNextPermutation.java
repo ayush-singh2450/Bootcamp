@@ -1,7 +1,7 @@
 package Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class MainNextPermutation {
 
     static void nextPermutation(char[] arr) {
         int i = arr.length - 2;
