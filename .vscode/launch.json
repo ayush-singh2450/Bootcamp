@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StockSpan",
+      "request": "launch",
+      "mainClass": "StackAndQueue.StockSpan",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "StackLL",
+      "request": "launch",
+      "mainClass": "StackAndQueue.StackLL",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CircularQueue",
       "request": "launch",
       "mainClass": "StackAndQueue.CircularQueue",
