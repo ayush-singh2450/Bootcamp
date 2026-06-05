@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinStack",
+      "request": "launch",
+      "mainClass": "StackAndQueue.MinStack",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "StockSpan",
       "request": "launch",
       "mainClass": "StackAndQueue.StockSpan",
