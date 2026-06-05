@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ValidParanthesis",
+      "request": "launch",
+      "mainClass": "StackAndQueue.ValidParanthesis",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "MinStack",
       "request": "launch",
       "mainClass": "StackAndQueue.MinStack",
