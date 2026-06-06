@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargRectInHistogram",
+      "request": "launch",
+      "mainClass": "StackAndQueue.LargRectInHistogram",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "NextGreaterElement",
       "request": "launch",
       "mainClass": "StackAndQueue.NextGreaterElement",
