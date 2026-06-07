@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseFirstK",
+      "request": "launch",
+      "mainClass": "StackAndQueue.ReverseFirstK",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "TwoStacks",
       "request": "launch",
       "mainClass": "StackAndQueue.TwoStacks",
