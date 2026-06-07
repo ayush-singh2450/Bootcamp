@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinaryNumbers",
+      "request": "launch",
+      "mainClass": "StackAndQueue.BinaryNumbers",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "FirstNegativeInWindow",
       "request": "launch",
       "mainClass": "StackAndQueue.FirstNegativeInWindow",
