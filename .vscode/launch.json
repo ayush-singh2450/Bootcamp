@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PostfixEvaluation",
+      "request": "launch",
+      "mainClass": "StackAndQueue.PostfixEvaluation",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "InfixToPostfix",
       "request": "launch",
       "mainClass": "StackAndQueue.InfixToPostfix",
