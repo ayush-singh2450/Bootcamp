@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DeleteMid",
+      "request": "launch",
+      "mainClass": "StackAndQueue.DeleteMid",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "SortStack",
+      "request": "launch",
+      "mainClass": "StackAndQueue.SortStack",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "BinaryNumbers",
       "request": "launch",
       "mainClass": "StackAndQueue.BinaryNumbers",
