@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueueUsingStack",
+      "request": "launch",
+      "mainClass": "StackAndQueue.QueueUsingStack",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CelebrityProblem",
       "request": "launch",
       "mainClass": "StackAndQueue.CelebrityProblem",
