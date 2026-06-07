@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FirstNegativeInWindow",
+      "request": "launch",
+      "mainClass": "StackAndQueue.FirstNegativeInWindow",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "SlidingWindowMaximum",
       "request": "launch",
       "mainClass": "StackAndQueue.SlidingWindowMaximum",
