@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TrappingRainwater",
+      "request": "launch",
+      "mainClass": "StackAndQueue.TrappingRainwater",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "LargRectInHistogram",
       "request": "launch",
       "mainClass": "StackAndQueue.LargRectInHistogram",

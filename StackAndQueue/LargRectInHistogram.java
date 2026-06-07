@@ -14,7 +14,7 @@ public class LargRectInHistogram {
          int right[] = new int[n];
          int left[] = new int[n];
          for (int i = n-1; i>=0; i--) {
-             while(s.size()>0 && arr[s.peek()]>=arr[i])
+             while(!s.empty() && arr[s.peek()]>=arr[i])
                 s.pop();
             right[i]=s.empty()? n:s.peek();
             s.push(i);         
@@ -23,7 +23,7 @@ public class LargRectInHistogram {
             s.pop();
 
            for (int i = 0; i<n; i++) {
-             while(s.size()>0 && arr[s.peek()]>=arr[i])
+             while(!s.empty() && arr[s.peek()]>=arr[i])
                 s.pop();
             left[i]=s.empty()? -1:s.peek();
             s.push(i);         
