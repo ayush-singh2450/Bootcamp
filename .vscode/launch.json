@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TwoStacks",
+      "request": "launch",
+      "mainClass": "StackAndQueue.TwoStacks",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "DeleteMid",
       "request": "launch",
       "mainClass": "StackAndQueue.DeleteMid",
