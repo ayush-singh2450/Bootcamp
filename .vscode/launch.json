@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "Searching.BinarySearch",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "LinearSearch",
       "request": "launch",
       "mainClass": "Searching.LinearSearch",
