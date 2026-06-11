@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StackUsingArray",
+      "request": "launch",
+      "mainClass": "StackAndQueue.StackUsingArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "NStacks",
+      "request": "launch",
+      "mainClass": "StackAndQueue.NStacks",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "ReverseFirstK",
       "request": "launch",
       "mainClass": "StackAndQueue.ReverseFirstK",
