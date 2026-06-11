@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "Searching.LinearSearch",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "QueueUsingLL",
       "request": "launch",
       "mainClass": "StackAndQueue.QueueUsingLL",
