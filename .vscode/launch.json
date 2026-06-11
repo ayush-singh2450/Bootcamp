@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueueUsingArray",
+      "request": "launch",
+      "mainClass": "StackAndQueue.QueueUsingArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "StackUsingArray",
       "request": "launch",
       "mainClass": "StackAndQueue.StackUsingArray",
