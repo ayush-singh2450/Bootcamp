@@ -65,7 +65,7 @@ class QueueLL {
 }
 
 
-public class CqueueLL {
+public class QueueUsingLL {
     public static void main(String[] args) {
 
         QueueLL q = new QueueLL();

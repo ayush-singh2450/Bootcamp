@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueueUsingLL",
+      "request": "launch",
+      "mainClass": "StackAndQueue.QueueUsingLL",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CqueueLL",
       "request": "launch",
       "mainClass": "StackAndQueue.CqueueLL",
