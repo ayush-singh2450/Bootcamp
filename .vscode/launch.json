@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CharacterBST",
+      "request": "launch",
+      "mainClass": "Tree.CharacterBST",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "BubbleSortFloat",
       "request": "launch",
       "mainClass": "Sorting.BubbleSortFloat",
