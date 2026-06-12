@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BubbleSortFloat",
+      "request": "launch",
+      "mainClass": "Sorting.BubbleSortFloat",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "SelectionSort",
       "request": "launch",
       "mainClass": "Sorting.SelectionSort",
