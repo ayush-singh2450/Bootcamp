@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DetectCycle",
+      "request": "launch",
+      "mainClass": "LinkList.DetectCycle",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "CountInversion",
+      "request": "launch",
+      "mainClass": "Sorting.CountInversion",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "CountingInversion",
+      "request": "launch",
+      "mainClass": "Sorting.CountingInversion",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTreeArray",
+      "request": "launch",
+      "mainClass": "Tree.BinaryTreeArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "CharacterBST",
       "request": "launch",
       "mainClass": "Tree.CharacterBST",
