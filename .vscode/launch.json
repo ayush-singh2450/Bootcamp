@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxProdSubArray",
+      "request": "launch",
+      "mainClass": "Algorithm.MaxProdSubArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Algorithm.Main",
