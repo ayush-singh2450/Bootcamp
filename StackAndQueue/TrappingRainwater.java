@@ -9,7 +9,8 @@ public class TrappingRainwater {
     System.out.print("Eneter size:");
     int n =sc.nextInt();
      int height[]=new int[n];
-     System.out.print("Eneter elements:");
+     
+     System.out.print("Enter elements:");
      for(int i=0;i<n;i++){
         height[i]=sc.nextInt();
      }

@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MeetingRooms",
+      "request": "launch",
+      "mainClass": "Problems.MeetingRooms",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "Arrays.RotateArray",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "MaxProdSubArray",
       "request": "launch",
       "mainClass": "Algorithm.MaxProdSubArray",
