@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SwapKElement",
+      "request": "launch",
+      "mainClass": "Problems.SwapKElement",
+      "projectName": "BootCamp_9d0152e"
+    },
+    {
+      "type": "java",
       "name": "MeetingRooms",
       "request": "launch",
       "mainClass": "Problems.MeetingRooms",
